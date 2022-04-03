@@ -13,8 +13,9 @@ This is a simple pack for JavaScript.
 
 -   [Colorize](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize)
 
-### JavaScript
+### JavaScript / React
 
+-   [NPM intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
 -   [Simple React Snippets](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets)
 
 ### Design
