@@ -8,7 +8,7 @@
 		"type": "git",
 		"url": "https://github.com/GorskiAnthony/AnthonyGorskiPack.git"
 	},
-	"version": "0.0.2",
+	"version": "0.1.0",
 	"engines": {
 		"vscode": "^1.66.0"
 	},
@@ -17,25 +17,20 @@
 	],
 	"extensionPack": [
 		"ahmadawais.emoji-log-vscode",
-		"burkeholland.simple-react-snippets",
 		"christian-kohler.npm-intellisense",
 		"dzhavat.bracket-pair-toggler",
 		"cweijan.vscode-mysql-client2",
 		"dracula-theme.theme-dracula",
-		"esbenp.prettier-vscode",
 		"formulahendry.auto-close-tag",
 		"formulahendry.auto-rename-tag",
 		"kamikillerto.vscode-colorize",
-		"marp-team.marp-vscode",
 		"mhutchie.git-graph",
 		"mikestead.dotenv",
 		"ms-vsliveshare.vsliveshare",
 		"mushan.vscode-paste-image",
 		"PKief.material-icon-theme",
 		"ritwickdey.LiveServer",
-		"tomasvergara.vscode-fontawesome-gallery",
 		"usernamehw.errorlens",
-		"wayou.vscode-todo-highlight",
 		"yzhang.markdown-all-in-one"
 	]
 }
